@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://karthikambaragonda.github.io/portfolio-template",
+  "homepage": "https://karthikambaragonda.github.io/portfolio-template",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'http://karthikambaragonda.github.io/portfolio-template'",
+    "build-gh": "parcel build --public-url 'https://karthikambaragonda.github.io/portfolio-template'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
